@@ -1,4 +1,4 @@
-<b>Note: There's several folder in this repo, please combine all the file into 1 folder before you run the notebook </b>
+<b>Note: There's several folder in this repo, please extract all the file from all folder and combine it into 1 folder before you run the notebook </b>
 
 # Hotel Booking Cancel Analysis
 made by : Shendy Gunawan
