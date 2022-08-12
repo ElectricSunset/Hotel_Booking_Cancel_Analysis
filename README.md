@@ -6,7 +6,7 @@ made by : Shendy Gunawan
 <center><img src='https://images.solopos.com/2019/11/Ilustrasi-hotel.-Freepik.jpg'/></center>
 
 ___
-Booking cancel has been hurting hotels revenue for years before. There's some precaution to that but nothing seems reliable enough to prevent revenue loss. But with more accurate predicition through machine learning, hopefully hotelier now can take measure to booking cancel. When we know whom might cancel their booking and who doesn't, we can make preventive action to customer before they cancel their booking. All of that will be lightly analize in this repo.
+Booking cancel has been hurting hotels revenue for years before. There's some precaution to that but nothing seems reliable enough to prevent revenue loss. But with more accurate predicition through machine learning, hopefully hotelier now can take measure to booking cancel. When we know whom might cancel their booking and who doesn't, we can make preventive action to customer before they cancel their booking. This repo contains machine learning model that trained from the data aquired that predict customer whom might cancel the booking.
 
 
 
